@@ -19,4 +19,4 @@ If you like my program you can bring me a coffee using : www.paypal.me/k0z1ol4
   TO BE USED FOR EDUCATIONAL PURPOSES ONLY
 </p>
 
-The use of the REDRUNNER is COMPLETE RESPONSIBILITY of the END-USER. Developer assume NO liability and are NOT responsible for any misuse or damage caused by this program. Please read LICENSE.
+The use of the REDRUNNER is COMPLETE RESPONSIBILITY of the END-USER. Developer assume NO liability and are NOT responsible for any misuse or damage caused by this program. Please read LICENSE(LICENSE).
